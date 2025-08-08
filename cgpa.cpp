@@ -63,8 +63,9 @@ int main(){
     cout<<"enter credit: ";
     cin>>credit;
     student.addSubject(studentname, gradepoints, credit);
-    cin.ignore(); // to ignore the newline character left in the buffer
+    cin.ignore(); 
     }
   student.display();
   return 0;
 }
+
