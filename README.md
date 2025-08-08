@@ -1,2 +1,2 @@
 # 1.Cgpa_Calculator
-this project is calculate cgpa
+This is calculate CGPA of students in this project we use oops concept 
